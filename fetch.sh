@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 # sucatalog (app list)
 # https://github.com/munki/macadmin-scripts/blob/main/installinstallmacos.py
